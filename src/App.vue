@@ -11,6 +11,5 @@ import  NavbarComponent from './NavbarComponent.vue'
 import  PendidikanComponent from './PendidikanComponent.vue'
 import  PengalamanComponent from './PengalamanComponent.vue'
 import  KeahlianComponent from './KeahlianComponent.vue'
-import FooterComponent from './FooterComponent.vue'
-
+import FooterComponent from './footerComponent.vue'
 </script>
