@@ -7,8 +7,7 @@
               <a href="https://flowbite.com/" class="flex items-center">
                   <img src="https://th.bing.com/th/id/OIP.D5Bmc2SVsk7fAnImJVPZRQHaHa?pid=ImgDet&rs=1" class="h-8 mr-3" alt="FlowBite Logo" />
                   <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">SENA JULIANTI</span> <br><br><br>
-                  <a href="https://api.whatsapp.com/send?phone=+6289531729799&text=Halo">
-<button style="background:#32C03C;vertical-align:center;height:36px;border-radius:8px"> Whatsapp Saya</button></a> <br>
+                
 
               </a>
           </div>
