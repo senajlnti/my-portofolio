@@ -18,7 +18,7 @@ import { Navbar, NavbarLogo, NavbarCollapse, NavbarLink } from 'flowbite-vue'
       </template>
     </Navbar>
     <div class="px-4 mx-auto max-w-screen-xl text-center py-5 lg:py-5">
-    <img src="src/assets/halo.png">
+    <img src="./assets/img/halo.png">
     </div><br>
     
 <section class="bg-white dark:bg-dark-900">
@@ -30,14 +30,14 @@ import { Navbar, NavbarLogo, NavbarCollapse, NavbarLink } from 'flowbite-vue'
             </p>          
         </div>
         <div>
-            <img class="mx-auto w-full lg:max-w-xl h-60 rounded-lg sm:h-96 shadow-xl" src="src/assets/sena.png"  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+            <img class="mx-auto w-full lg:max-w-xl h-60 rounded-lg sm:h-96 shadow-xl" src="./assets/img/sena.png"  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
         </div>
     </div>
 </section>
 
 <!-- biodata -->
 <div class="px-4 mx-auto max-w-screen-xl text-center py-5 lg:py-5">
-    <img src="src/assets/datadiri.png">
+    <img src="./assets/img/datadiri.png">
     </div><br> <br>
 
     <!-- contact -->    

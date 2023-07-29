@@ -9,22 +9,22 @@
     </center> 
 <div class="grid grid-cols-2 md:grid-cols-3 gap-4">
     <div>
-        <img class="h-auto max-w-full rounded-lg" src="src/assets/pengalaman1.jpg" alt="">
+        <img class="h-auto max-w-full rounded-lg" src="./assets/img/pengalaman1.jpg" alt="">
     </div>
     <div>
-        <img class="h-auto max-w-full rounded-lg" src="src/assets/pengalaman2.jpg" alt="">
+        <img class="h-auto max-w-full rounded-lg" src="./assets/img/pengalaman2.jpg" alt="">
     </div>
     <div>
-        <img class="h-auto max-w-full rounded-lg" src="src/assets/pengalaman3.jpg" alt="">
+        <img class="h-auto max-w-full rounded-lg" src="./assets/img/pengalaman3.jpg" alt="">
     </div>
     <div>
-        <img class="h-auto max-w-full rounded-lg" src="src/assets/pengalaman4.jpg" alt="">
+        <img class="h-auto max-w-full rounded-lg" src="./assets/img/pengalaman4.jpg" alt="">
     </div>
     <div>
-        <img class="h-auto max-w-full rounded-lg" src="src/assets/pengalaman5.jpg" alt="">
+        <img class="h-auto max-w-full rounded-lg" src="./assets/img/pengalaman5.jpg" alt="">
     </div>
     <div>
-        <img class="h-auto max-w-full rounded-lg" src="src/assets/pengalaman6.jpg" alt="">
+        <img class="h-auto max-w-full rounded-lg" src="./assets/img/pengalaman6.jpg" alt="">
     </div>
 </div>
 </div>
