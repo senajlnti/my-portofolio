@@ -11,9 +11,7 @@ import { Navbar, NavbarLogo, NavbarCollapse, NavbarLink } from 'flowbite-vue'
       <template #default="{isShowMenu}">
         <NavbarCollapse :isShowMenu="isShowMenu">
           <NavbarLink isActive link="#">Home</NavbarLink>
-          <NavbarLink link="#">About</NavbarLink>
-          <NavbarLink link="#">Gallery</NavbarLink>
-          <NavbarLink link="https://api.whatsapp.com/send?phone=+6289531729799&text=Halo">Contact</NavbarLink>
+          
         </NavbarCollapse>
       </template>
     </Navbar>
@@ -24,13 +22,13 @@ import { Navbar, NavbarLogo, NavbarCollapse, NavbarLink } from 'flowbite-vue'
 <section class="bg-white dark:bg-dark-900">
     <div class="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 grid lg:grid-cols-2 gap-8 lg:gap-16">
         <div class="flex flex-col justify-center">
-            <h1 class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-dark-900 md:text-5xl lg:text-6xl dark:text-white">PROFIL</h1>
-            <p class="mb-8 text-lg font-normal text-dark-500 lg:text-xl dark:text-dark-400">Haii nama saya Sena Julianti, seorang pelajar yang menyukai Desain, saya seorang siswa dari SMK ASSALAAM BANDUNG.
-                Saya selalu ingin mempelajari hal-hal baru yang menarik buat saya.
+            <h1 class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-dark-900 md:text-5xl lg:text-6xl dark:text-white">Tentang Saya</h1>
+            <p class="mb-8 text-lg font-normal text-dark-500 lg:text-xl dark:text-dark-400">Halo nama saya Sena Julianti, lulusan Smk Assalaam Bandung dengan Jurusan Rekayasa Perangkat Lunak.
+                Mempunyai kepribadian yang Tangguh, Disiplin, Mandiri dan mampu bekerja secara tim maupun individu.Selain itu, saya juga menyukai Desain dan senang belajar hal-hal baru.
             </p>          
         </div>
         <div>
-            <img class="mx-auto w-full lg:max-w-xl h-60 rounded-lg sm:h-96 shadow-xl" src="./assets/img/sena.png"  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+            <img class="mx-auto w-full lg:max-w-xl h-60 rounded-lg sm:h-96 shadow-xl" src="./assets/img/ttng-sena.png"  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
         </div>
     </div>
 </section>
@@ -43,7 +41,7 @@ import { Navbar, NavbarLogo, NavbarCollapse, NavbarLink } from 'flowbite-vue'
     <!-- contact -->    
     <center>
 <a href="#" class="block max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700">
-  <img src="https://th.bing.com/th/id/R.4215d06a0ba187367801890e0b26f79d?rik=kBeXD76aimx9eg&riu=http%3a%2f%2fcdn.onlinewebfonts.com%2fsvg%2fimg_386133.png&ehk=uQjI6mpqwp8ApclPDI6CTp8vVmrKHcRGiUDF0EHiAUs%3d&risl=&pid=ImgRaw&r=0" style="width: 200px;">
+  <img src="./assets/img/" style="width: 200px;">
   <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"></h5>
     <p class="font-normal text-gray-700 dark:text-gray-400"></p>
     <div>
@@ -56,12 +54,12 @@ import { Navbar, NavbarLogo, NavbarCollapse, NavbarLink } from 'flowbite-vue'
         <tr>
             <td>Instagram</td>
             <td>:</td>
-            <td><a href="https://instagram.com/senajulianti?igshid=MzNlNGNkZWQ4Mg==" class="hover:underline"> Instagram</a></td>
+            <td><a href="https://instagram.com/senajulianti?igshid=MzNlNGNkZWQ4Mg==" class="hover:underline">@senajulianti</a></td>
         </tr>
         <tr>
             <td>Github</td>
             <td>:</td>
-            <td><a href="https://github.com/senajlnti" class="hover:underline ">Github</a></td>
+            <td><a href="https://github.com/senajlnti" class="hover:underline ">senajlnti</a></td>
         </tr>
 
 
@@ -69,7 +67,4 @@ import { Navbar, NavbarLogo, NavbarCollapse, NavbarLink } from 'flowbite-vue'
     </div>
 </a>
 </center>
-
-
-
 </template>
